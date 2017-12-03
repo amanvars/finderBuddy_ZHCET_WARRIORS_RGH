@@ -4,4 +4,4 @@ This repository contains the required files and code of finderBuddy-a Procuremen
 All the necessary api s are in the API folder.Also Django should be present in the system.
 Download all apis and put it in "C:\Python27\Lib\site-packages"
 
-and download p_bot folder and use it. 
+and download p_bot folder and use it by invoking python manage.py runserver
